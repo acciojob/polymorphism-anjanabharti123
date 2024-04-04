@@ -18,7 +18,7 @@ public static class Product{
 
   public static void main(String[] args){
 
-    product p = new Product();
+    Product p = new Product();
 
     int productXY = p.product(10, 20);
     System.out.println(productXY);
